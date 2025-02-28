@@ -2,8 +2,7 @@
 
 Olá, sou Julia Kymie. Atualmente, estou estudando Ciência da Computação na PUC-Rio e quero participar e aprender mais sobre programação e esse mundo de tecnologia.
 
-### 🤖 Linguagens e Tecnologias
----
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -52,8 +51,7 @@ Olá, sou Julia Kymie. Atualmente, estou estudando Ciência da Computação na P
 
 
 
-### 📊 Estatísticas
----
+## 📊 Estatísticas
 
 <p>
   <img 
