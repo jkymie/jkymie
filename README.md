@@ -40,8 +40,8 @@ Desenvolvedora **Fullstack** explorando o mundo do **Machine Learning** 🤖✨
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username={jkymie}&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={jkymie}&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jkymie&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkymie&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="170"/>
 </p>
 
 ---
