@@ -2,8 +2,6 @@
 
 Desenvolvedora **Fullstack** explorando o mundo do **Machine Learning** 🤖✨
 
----
-
 ### 🚀 Sobre mim
 
 - 💻 Trabalho com desenvolvimento fullstack no dia a dia
