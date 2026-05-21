@@ -70,6 +70,3 @@ Desenvolvedora **Fullstack** explorando o mundo do **Machine Learning** 🤖✨
   </a>
 </p>
 
----
-
-<sub>⭐ De [{seu-usuario}](https://github.com/{seu-usuario}) — obrigada por visitar!</sub>
