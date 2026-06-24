@@ -44,19 +44,6 @@ Desenvolvedora **Fullstack** explorando o mundo do **Machine Learning** 🤖✨
 
 ---
 
-### 📌 Projetos em destaque
-
-<p align="left">
-  <a href="https://github.com/jkymie/{repo-1}">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username={seu-usuario}&repo={repo-1}&hide_border=true" alt="Projeto 1"/>
-  </a>
-  <a href="https://github.com/jkymie/{repo-2}">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username={seu-usuario}&repo={repo-2}&hide_border=true" alt="Projeto 2"/>
-  </a>
-</p>
-
----
-
 ### 🌐 Vamos conversar?
 
 <p align="left">
